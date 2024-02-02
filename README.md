@@ -1,3 +1,21 @@
+# Meta Decks
+
+This is a minor mod of Pokémon TCG, based on the disassembly project. 
+
+Features: 
+- Changes the decks of the 24 club members to be based on 'meta' decks. Reference links to the decks used can be found in `trainer deck names reference.csv`.
+- Skips the tutorial battle vs Sam when starting the game.
+
+To create a BPS patch of this hack, build it using the normal disassembly project's instructions below, then use the ROM Patcher at (https://www.romhacking.net/patch/). Make sure to select `Creator mode` and `BPS` for the patch type.
+
+NOTE: When building this project, you will a LOT of deprecated warnings, and 1 error at the end because the checksum does not match the checksum of the vanilla rom. You'll see an error message like this:
+
+```
+poketcg.gbc: FAILED
+sha1sum: WARNING: 1 computed checksum did NOT match
+make: *** [Makefile:60: compare] Error 1
+```
+
 # Pokémon TCG [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon TCG.
