@@ -1368,99 +1368,99 @@ LegendaryRonaldDeckName:
 	done
 
 WaterfrontPokemonDeckName:
-	text "Waterfront Pokémon"
+	text "Dragonite"
 	done
 
 LonelyFriendsDeckName:
-	text "Lonely Friends"
+	text "Big Eggsplosion"
 	done
 
 SoundoftheWavesDeckName:
-	text "Sound of the Waves"
+	text "Curse of Gengar"
 	done
 
 AngerDeckName:
-	text "Anger"
+	text "Wigglymar"
 	done
 
 FlamethrowerDeckName:
-	text "Flamethrower"
+	text "Cheesy Zapdos"
 	done
 
 ReshuffleDeckName:
-	text "Reshuffle"
+	text "Jungle Haymaker"
 	done
 
 ExcavationDeckName:
-	text "Excavation"
+	text "Punched by a Bird"
 	done
 
 BlisteringPokemonDeckName:
-	text "Blistering Pokémon"
+	text "Dragonair Drought"
 	done
 
 HardPokemonDeckName:
-	text "Hard Pokémon"
+	text "Goldrought"
 	done
 
 EtceteraDeckName:
-	text "Etcetera"
+	text "Moltres Stall"
 	done
 
 FlowerGardenDeckName:
-	text "Flower Garden"
+	text "Good Dog"
 	done
 
 KaleidoscopeDeckName:
-	text "Kaleidoscope"
+	text "Magmabuzz"
 	done
 
 MusclesforBrainsDeckName:
-	text "Muscles for Brains"
+	text "Prehistoric Power"
 	done
 
 HeatedBattleDeckName:
-	text "Heated Battle"
+	text "Alakazamgaskhan"
 	done
 
 LovetoBattleDeckName:
-	text "Love to Battle"
+	text "Clefable & Friends"
 	done
 
 PikachuDeckName:
-	text "Pikachu"
+	text "Golduck & Friends"
 	done
 
 BoomBoomSelfdestructDeckName:
-	text "Boom Boom Selfdestruct"
+	text "Aero Haymaker"
 	done
 
 PowerGeneratorDeckName:
-	text "Power Generator"
+	text "Lick This"
 	done
 
 GhostDeckName:
-	text "Ghost"
+	text "Rain Dance"
 	done
 
 NapTimeDeckName:
-	text "Nap Time"
+	text "Slowbro"
 	done
 
 StrangePowerDeckName:
-	text "Strange Power"
+	text "Sponge"
 	done
 
 FlyinPokemonDeckName:
-	text "Flyin' Pokémon"
+	text "The Cleaner"
 	done
 
 LovelyNidoranDeckName:
-	text "Lovely Nidoran"
+	text "Venucenter"
 	done
 
 PoisonDeckName:
-	text "Poison"
+	text "Wave Goodbye"
 	done
 
 ImakuniDeckName:
