@@ -325,7 +325,7 @@ Script_EnterLabFirstTime:
 	move_player NORTH, 2
 	print_npc_text Text05e3
 	close_advanced_text_box
-	set_next_npc_and_script NPC_SAM, .ows_d779
+	script_jump Script_AfterPracticeDuel.ows_d85f
 	end_script
 	ret
 
