@@ -1821,7 +1821,8 @@ ReshuffleDeck:
 	card_item DOUBLE_COLORLESS_ENERGY, 2
 	card_item HITMONCHAN, 3
 	card_item ELECTABUZZ_LV35, 3
-	card_item SCYTHER, CHANSEY, 13
+	card_item SCYTHER, 3
+	card_item CHANSEY, 1
 	card_item BILL, 4
 	card_item PLUSPOWER, 4
 	card_item ENERGY_REMOVAL, 4
@@ -1834,9 +1835,7 @@ ReshuffleDeck:
 	card_item COMPUTER_SEARCH, 2
 	card_item LASS, 2
 	card_item SWITCH, 1
-	; this deck list has 63 cards
-	;deck_list_end
-	db 0
+ 	deck_list_end
 	tx ReshuffleDeckName
 
 ImakuniDeck:
